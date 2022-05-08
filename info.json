@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Vanita Smythe - They Raided the Joint 1946-Qu84tD5UhiM.mp4",
+            "path": "music_p2/videos/Vanita Smythe - They Raided the Joint 1946-Qu84tD5UhiM.mp4",
+            "size": 7.764474880000001
+        }
+    ],
+    "total_size": 7.764474880000001
 }
