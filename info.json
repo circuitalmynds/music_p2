@@ -2,34 +2,14 @@
     "available_space": true,
     "files": [
         {
-            "name": "Vanita Smythe - They Raided the Joint 1946-Qu84tD5UhiM.mp4",
-            "path": "music_p2/videos/Vanita Smythe - They Raided the Joint 1946-Qu84tD5UhiM.mp4",
-            "size": 7.764474880000001
-        },
-        {
-            "name": "Julio Iglesias - Manuela-qgCFjUmzXx0.mp4",
-            "path": "music_p2/videos/Julio Iglesias - Manuela-qgCFjUmzXx0.mp4",
-            "size": 10.043879424
-        },
-        {
             "name": "Barry White ~ It's Ecstasy When You Lay Down Next To Me 1977 Disco Purrfection Version-L0r7CdN8kK0.mp4",
             "path": "music_p2/videos/Barry White ~ It's Ecstasy When You Lay Down Next To Me 1977 Disco Purrfection Version-L0r7CdN8kK0.mp4",
             "size": 52.99304857600001
         },
         {
-            "name": "Underworld - Cowgirl (Demo+id2+A1804)-Y5U2E9CPYtg.mp4",
-            "path": "music_p2/videos/Underworld - Cowgirl (Demo+id2+A1804)-Y5U2E9CPYtg.mp4",
-            "size": 21.781412864
-        },
-        {
-            "name": "Chemical Brothers - The State We're In-_BnvA8jIUbI.mp4",
-            "path": "music_p2/videos/Chemical Brothers - The State We're In-_BnvA8jIUbI.mp4",
-            "size": 7.136501760000001
-        },
-        {
-            "name": "I Love You Truly-Rari2l9nHNE.mp4",
-            "path": "music_p2/videos/I Love You Truly-Rari2l9nHNE.mp4",
-            "size": 4.413244416
+            "name": "Julio Iglesias - Manuela-qgCFjUmzXx0.mp4",
+            "path": "music_p2/videos/Julio Iglesias - Manuela-qgCFjUmzXx0.mp4",
+            "size": 10.043879424
         },
         {
             "name": "Ray Noble -Great Bands in Digital Stereo - Vol 3 LP Side 2-lP4qhYl7kBg.mp4",
@@ -40,7 +20,27 @@
             "name": "Annette Hanshaw - Moon song (1933)-VkngzIO1cJg.mp4",
             "path": "music_p2/videos/Annette Hanshaw - Moon song (1933)-VkngzIO1cJg.mp4",
             "size": 8.536464384
+        },
+        {
+            "name": "Underworld - Cowgirl (Demo+id2+A1804)-Y5U2E9CPYtg.mp4",
+            "path": "music_p2/videos/Underworld - Cowgirl (Demo+id2+A1804)-Y5U2E9CPYtg.mp4",
+            "size": 21.781412864
+        },
+        {
+            "name": "Vanita Smythe - They Raided the Joint 1946-Qu84tD5UhiM.mp4",
+            "path": "music_p2/videos/Vanita Smythe - They Raided the Joint 1946-Qu84tD5UhiM.mp4",
+            "size": 7.764474880000001
+        },
+        {
+            "name": "I Love You Truly-Rari2l9nHNE.mp4",
+            "path": "music_p2/videos/I Love You Truly-Rari2l9nHNE.mp4",
+            "size": 4.413244416
+        },
+        {
+            "name": "Chemical Brothers - The State We're In-_BnvA8jIUbI.mp4",
+            "path": "music_p2/videos/Chemical Brothers - The State We're In-_BnvA8jIUbI.mp4",
+            "size": 7.136501760000001
         }
     ],
-    "total_size": 147.733444608
+    "total_size": 147.73344460799999
 }
